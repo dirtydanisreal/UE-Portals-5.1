@@ -4,7 +4,7 @@
 ---
 
 ## Thanks
-Thanks to Froyok for giving me the rights to use his work as a starting base : https://www.froyok.fr/blog/2019-03-creating-seamless-portals-in-unreal-engine-4/.
+Thanks to Froyok for giving me the rights to use her work as a starting base : https://www.froyok.fr/blog/2019-03-creating-seamless-portals-in-unreal-engine-4/.
 
 ## Context
 This plugin has been developed for the study of visual properties only. Thus, although the teleportation aspect has been implemented, it is really secondary and not much work has been put into it.
