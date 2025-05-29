@@ -22,5 +22,5 @@ protected:
    UPROPERTY(VisibleAnywhere, Category = "Mesh")
    UCameraComponent* m_camera;
 
-   TickActor( float DeltaTime, enum ELevelTick TickType, FActorTickFunction& ThisTickFunction ) override;
+   void TickActor( float DeltaTime, enum ELevelTick TickType, FActorTickFunction& ThisTickFunction ) override;
 };
